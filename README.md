@@ -45,10 +45,10 @@
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/vladimiremi/IgniteNode-ChapterIV-Desafio01
+$ git clone https://github.com/Hugovarellaa/ignite-template-tests-challenge
 
 # Entre na pasta
-$ cd IgniteNode-ChapterIV-Desafio01
+$ cd ignite-template-tests-challenge
 
 # Instale as dependências
 $ yarn ou yarn install
